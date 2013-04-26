@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>KnockoutJS</string>
+	<key>CFBundleName</key>
+	<string>KnockoutJS</string>
+	<key>DocSetPlatformFamily</key>
+	<string>KnockoutJS</string>
+	<key>New item</key>
+	<string></string>
+	<key>dashIndexFilePath</key>
+	<string>documentation/introduction.html</string>
+	<key>isDashDocset</key>
+	<true/>
+	<key>isJavaScriptEnabled</key>
+	<true/>
+</dict>
+</plist>
